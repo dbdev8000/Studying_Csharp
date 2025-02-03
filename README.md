@@ -7,3 +7,7 @@
 - Lesson02: Creating a file in dotnet standard.
 
 - Lesson03: Variables( byte, int, char, float, string, aux).
+
+- Lesson04: Variable scope
+
+- Lesso05: Operators and operations
