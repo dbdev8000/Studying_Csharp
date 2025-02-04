@@ -10,4 +10,6 @@
 
 - Lesson04: Variable scope
 
-- Lesso05: Operators and operations
+- Lesson05: Operators and operations
+
+- Lesson06: Formatting output in the console
