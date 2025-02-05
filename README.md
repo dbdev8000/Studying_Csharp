@@ -13,3 +13,7 @@
 - Lesson05: Operators and operations
 
 - Lesson06: Formatting output in the console
+
+- Lesson07: Constants
+
+- Lesson08: Reading values ​​from the keyboard
