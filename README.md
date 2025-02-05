@@ -17,3 +17,5 @@
 - Lesson07: Constants
 
 - Lesson08: Reading values ​​from the keyboard
+
+- Lesson09: Bitwise Operations
