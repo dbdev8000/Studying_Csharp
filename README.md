@@ -21,3 +21,5 @@
 - Lesson09: Bitwise Operations
 
 - Lesson10: Enumerators (enum)
+
+- Lesson11: Type conversions (typecast)
