@@ -1,6 +1,6 @@
 using System;
 
-class Lesson13{
+class Lesson14{
     static void Main(){
 
         int g1, g2, g3, g4, res;
