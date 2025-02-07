@@ -33,3 +33,5 @@
 - Lesson 15: SWITCH case
 
 - Lesson 16: Command goto
+
+- Lesson 17: Array
