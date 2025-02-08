@@ -43,3 +43,5 @@
 - Lesson 20: Loop WHILE
 
 - Lesson 21: Loop DO WHILE
+
+-Lesson 22: Loop FOREACH
