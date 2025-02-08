@@ -37,3 +37,5 @@
 - Lesson 17: Array
 
 - Lesson 18: Matrices
+
+- Lesson 19: Loop FOR
