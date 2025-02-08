@@ -35,3 +35,5 @@
 - Lesson 16: Command goto
 
 - Lesson 17: Array
+
+- Lesson 18: Matrices
