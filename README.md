@@ -50,4 +50,6 @@
 
 - Lesson 24: Methods
 
-- Lesson 24: Passing by value and by reference
+- Lesson 25: Passing by value and by reference
+
+- Lesson 26: Argument out
