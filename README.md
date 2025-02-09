@@ -44,8 +44,10 @@
 
 - Lesson 21: Loop DO WHILE
 
--Lesson 22: Loop FOREACH
+- Lesson 22: Loop FOREACH
 
 - Lesson 23: Array Methods
 
 - Lesson 24: Methods
+
+- Lesson 24: Passing by value and by reference
