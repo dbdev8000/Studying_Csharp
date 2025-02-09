@@ -45,3 +45,5 @@
 - Lesson 21: Loop DO WHILE
 
 -Lesson 22: Loop FOREACH
+
+- Lesson 23: Array Methods
