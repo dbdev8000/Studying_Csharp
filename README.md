@@ -47,3 +47,5 @@
 -Lesson 22: Loop FOREACH
 
 - Lesson 23: Array Methods
+
+- Lesson 24: Methods
