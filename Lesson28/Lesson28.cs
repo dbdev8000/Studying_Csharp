@@ -12,7 +12,6 @@ class Lesson28 {
         Player p3 = new Player();
 
         p1.stamina = 50;
-        p1.dmg;
 
 
         Console.WriteLine("Player 1's stamina: {0}", p1.stamina);
