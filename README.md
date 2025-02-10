@@ -55,3 +55,5 @@
 - Lesson 26: Argument out
 
 - Lesson 27: Argument params
+
+- Lesson 28: Classes and objects
