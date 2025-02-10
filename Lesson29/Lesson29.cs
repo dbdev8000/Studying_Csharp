@@ -15,7 +15,7 @@ public class Player{
         Console.WriteLine("PLAYER {0} WAS DESTROYED", name);
     }
 }
-class Lesson28 {
+class Lesson29 {
     static void Main() {
         string name1;
         Console.WriteLine("Enter player name 1: ");
