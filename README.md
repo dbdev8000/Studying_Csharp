@@ -61,3 +61,5 @@
 - Lesson 29: Constructors and Destructors 
 
 - Lesson 30: Constructor Overloading
+
+- Lesson 31: Static Classes
