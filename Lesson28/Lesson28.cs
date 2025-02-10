@@ -16,6 +16,6 @@ class Lesson28 {
 
 
         Console.WriteLine("Player 1's stamina: {0}", p1.stamina);
-        Console.WriteLine("Player 1's stamina: {0}", p2.stamina);
+        Console.WriteLine("Player 2's stamina: {0}", p2.stamina);
     }
 }
