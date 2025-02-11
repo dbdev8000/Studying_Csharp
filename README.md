@@ -65,3 +65,5 @@
 - Lesson 31: Static Classes
 
 - Lesson 32: This
+
+- Lesson 33: Public vs Private
