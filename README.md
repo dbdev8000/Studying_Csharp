@@ -67,3 +67,5 @@
 - Lesson 32: This
 
 - Lesson 33: Public vs Private
+
+- Lesson 34: Heritage
