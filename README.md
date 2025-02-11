@@ -69,3 +69,5 @@
 - Lesson 33: Public vs Private
 
 - Lesson 34: Heritage
+
+- Lesson 35: Inheritance Chain and Base Class Constructor
