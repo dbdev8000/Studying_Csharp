@@ -83,3 +83,5 @@
 - Lesson 40: Sealed Class
 
 - Lesson 41: Acessors GET and SET
+
+- Lesson 42: Class Indexers
