@@ -79,3 +79,5 @@
 - Lesson 38: Virtual Methods
 
 - Lesson 39: Abstract classes and methods
+
+- Lesson 40: Sealed Class
