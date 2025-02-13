@@ -85,3 +85,5 @@
 - Lesson 41: Acessors GET and SET
 
 - Lesson 42: Class Indexers
+
+- Lesson 43: Interfaces
