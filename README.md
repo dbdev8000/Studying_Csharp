@@ -87,3 +87,7 @@
 - Lesson 42: Class Indexers
 
 - Lesson 43: Interfaces
+
+- Lesson 44: Struct
+
+-Lesson 45: Array of structures
