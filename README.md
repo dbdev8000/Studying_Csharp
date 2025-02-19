@@ -90,4 +90,6 @@
 
 - Lesson 44: Struct
 
--Lesson 45: Array of structures
+- Lesson 45: Array of structures
+
+- Lesson 46: Methods that return objects
