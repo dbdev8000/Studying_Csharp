@@ -1,0 +1,8 @@
+.vs/
+.vs2019/
+.vscode/
+.idea/
+*.user
+*.userosscache
+*.suo
+*.userprefs
