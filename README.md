@@ -99,3 +99,5 @@
 - Lesson 48: Recursion
 
 - Lesson 49: Static Methods and Variables
+
+- Lesson 50: Delegates
