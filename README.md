@@ -103,3 +103,5 @@
 - Lesson 50: Delegates
 
 - Lesson 51: Program Input Arguments
+
+- Lesson 52: Exceptions
