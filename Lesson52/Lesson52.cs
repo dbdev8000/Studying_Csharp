@@ -18,7 +18,7 @@ class Lesson52
         catch(Exception e)
         {
             Console.WriteLine($"ERRO: {e.Message}");
-            Console.WriteLine($"Ex: {e.GetTypr()}");
+            Console.WriteLine($"Ex: {e.GetType()}");
 
         }
     }

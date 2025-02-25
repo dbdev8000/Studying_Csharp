@@ -104,4 +104,6 @@
 
 - Lesson 51: Program Input Arguments
 
-- Lesson 52: Exceptions
+- Lesson 52: Exceptions - Try Catch Finally - 1
+
+- Lesson 53: Exceptions - Try Catch Finally - 2
