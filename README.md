@@ -111,3 +111,5 @@
 - Lesson 54: Namespaces
 
 - Lesson 55: Dictionary Collection
+
+- Lesson 56: LinkedList Collection
